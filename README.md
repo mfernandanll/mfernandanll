@@ -1,12 +1,16 @@
-### Hi there 👋
+# Hi, I'm Fernanda Loureiro! 👩‍💻
 
-- 👩🏻💻 Web and Mobile Developer
-- 🌱 I’m currently learning ReactJS, React Native
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-407bff?style=flat-square&labelColor=407bff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/maria-fernanda-loureiro/) 
+[![Github Badge](https://img.shields.io/badge/-Github-407bff?style=flat-square&labelColor=407bff&logo=Github&logoColor=white&link=https://github.com/mfernandanll)](https://github.com/mfernandanll)
 
-<br><br>
+I'm a front-end developer from Manaus, Brazil. 
 
-## Contact
+Learning and solving problems it's my passion. I'm always open to new challanges, growing my skills and contributing more to the development and efficiency of new systems and improving existing ones for a better user experience.
 
-<a href="https://linkedin.com/in/maria-fernanda-loureiro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mariafernandaloureiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+- 👩‍🎓 I'm graduate in Computer Engineering 
+
+## Skills
+-  👨‍💻  HTML/CSS3, Javascript, Typescript, Python
+-  ⚙️  React, Angular
+-  👁️  CSS
+-   📕 I’m currently learning Node Js
